@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am now working on underwater semantic communication research. If you are seeking any form of academic collaboration, please feel free to contact me via email at ychl@guet.edu.cn. 
+I am now working on underwater semantic communication research. If you are seeking any form of academic collaboration, please feel free to contact me via email at [ychl@guet.edu.cn](ychl@guet.edu.cn). 
 
-I graduated from the School of Information Engineering, Nanchang University with a bachelor's degree, and from the School of Information, Xiamen University with a doctoral degree, advised by Rongshan Yu ([俞容山](https://informatics.xmu.edu.cn/info/1033/161331.htm)) and Haixin Sun ([孙海信](https://informatics.xmu.edu.cn/old/info/1021/24569.htm)). Currently, I am conducting postdoctoral research at the School of Information and Communications, Guilin University of Electronic Technology.
+I graduated from the School of Information Engineering, [Nanchang University](https://www.ncu.edu.cn/) with a bachelor's degree, and from the School of Information, [Xiamen University](https://www.xmu.edu.cn/) with a doctoral degree, advised by Rongshan Yu ([俞容山](https://informatics.xmu.edu.cn/info/1033/161331.htm)) and Haixin Sun ([孙海信](https://informatics.xmu.edu.cn/old/info/1021/24569.htm)). Currently, I am conducting postdoctoral research at the School of Information and Communications, Guilin University of Electronic Technology.
 
 My research interests include semantic communication and underwater communication. I have published over 10 papers <a href='https://scholar.google.com.hk/citations?user=fJPa7z8AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>) in authoritative international and domestic journals, including Briefings in Bioinformatics and ACS omega, etc.
  
