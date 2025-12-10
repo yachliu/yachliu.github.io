@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yachen Liu (刘亚琛)"
+title                    : "Yachen Liu      (刘亚琛)"
 description              : "个人主页"
 repository               : "yachliu/yachliu.github.io"
 google_scholar_stats_use_cdn : true
