@@ -48,6 +48,6 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📖 Educations
 - *2025.02 - now*, Postdoctoral, School of Information and Communications, Guilin University of Electronic Technology, Guilin.
-- *2019.09 - 2024.12*, Doctoral, School of Information Engineering, Nanchang University, Nanchang.
+- *2019.09 - 2024.12*, Doctoral, School of Information, Xiamen University, Xiamen.
 - *2017.09 - 2019.06*, Master, School of Information, Xiamen University, Xiamen.
 - *2013.09 - 2017.06*, Undergraduate, School of Information Engineering, Nanchang University, Nanchang.
