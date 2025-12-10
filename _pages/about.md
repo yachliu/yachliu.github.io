@@ -32,29 +32,18 @@ My research interests include semantic communication and underwater communicatio
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Personalized analysis of human cancer multi-omics for precision oncology][(https://github.com](https://www.sciencedirect.com/science/article/pii/S2001037024001594), Computational and Structural Biotechnology Journal, **2024**
-- [Cross-Run Hybrid Features Improve the Identification of Data-Independent Acquisition Proteomics](https://github.com), ACS omega, **2024**
-- [Application of individualized differential expression analysis in human cancer proteome](https://github.com), Briefings in Bioinformatics, **2022**
-- [Deep representation features from DreamDIAXMBD improve the analysis of data-independent acquisition proteomics](https://github.com), Communications Biology, **2021**
-
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- [Personalized analysis of human cancer multi-omics for precision oncology](https://www.sciencedirect.com/science/article/pii/S2001037024001594), Computational and Structural Biotechnology Journal, **2024**
+- [Cross-Run Hybrid Features Improve the Identification of Data-Independent Acquisition Proteomics](https://pubs.acs.org/doi/full/10.1021/acsomega.4c07398), ACS omega, **2024**
+- [Application of individualized differential expression analysis in human cancer proteome](https://academic.oup.com/bib/article/23/3/bbac096/6562685), Briefings in Bioinformatics, **2022**
+- [Deep representation features from DreamDIAXMBD improve the analysis of data-independent acquisition proteomics](https://www.nature.com/articles/s42003-021-02726-6), Communications Biology, **2021**
 
 # 📖 Educations
 - *2025.02 - now*, Postdoctoral, School of Information and Communications, Guilin University of Electronic Technology, Guilin.
 - *2019.09 - 2024.12*, Doctoral, School of Information, Xiamen University, Xiamen.
 - *2017.09 - 2019.06*, Master, School of Information, Xiamen University, Xiamen.
 - *2013.09 - 2017.06*, Undergraduate, School of Information Engineering, Nanchang University, Nanchang.
+
+# 💬 Lectures and Forums
+- 2025.11, “桂电论坛：通识教育讲座计划”, 水下无线通信.
+
+# 🎖 Honors and Awards
