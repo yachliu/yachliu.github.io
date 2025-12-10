@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yachen Liu (刘亚琛)"
-description              : "个人主页"
+description              : "Related Links"
 repository               : "yachliu/yachliu.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yachen Liu (刘亚琛)"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "桂林电子科技大学"
-  location         : "广西桂林, 中国"
+  bio              : "Guilin University of Electronic Technology"
+  location         : "Guilin, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fJPa7z8AAAAJ"
