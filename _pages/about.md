@@ -37,7 +37,7 @@ My research interests include semantic communication and underwater communicatio
 - [Application of individualized differential expression analysis in human cancer proteome](https://academic.oup.com/bib/article/23/3/bbac096/6562685), Briefings in Bioinformatics, **2022**
 - [Deep representation features from DreamDIAXMBD improve the analysis of data-independent acquisition proteomics](https://www.nature.com/articles/s42003-021-02726-6), Communications Biology, **2021**
 
-# 💬 Patents
+# 📕 Patents
 - [授权]一种个体差异表达蛋白质的识别方法，俞容山；**刘亚琛**；童梦莎；林雅岚；吴雨娟；林育祥，中国，2021-11-17
 
 # 📖 Educations
@@ -46,10 +46,13 @@ My research interests include semantic communication and underwater communicatio
 - *2017.09 - 2019.06*, Master, School of Information, Xiamen University, Xiamen.
 - *2013.09 - 2017.06*, Undergraduate, School of Information Engineering, Nanchang University, Nanchang.
 
-# 💻 Lectures and Forums
+# 🐎 Work Experiences
+- *2025.02 - now*, Assistant Professor, School of Information and Communications, Guilin University of Electronic Technology, Guilin.
+
+# 💬Lectures and Forums
 - 2025.11, “桂电论坛：通识教育讲座计划”
 - 2025.11，“中国电子学会第32届信息论学术年会”
 - 2025.08，“水下信息感知与通信研讨会（第一届）”
 - 2025.07，“无线光通信理论与组网技术论坛（第六届）”
 
-# 🥇💎🍓🌽❀🌼🎁📚📕 Honors and Awards
+# 🥇💎🍓🌽❀🌼🎁📚⭐✈🚀🚗💻
