@@ -24,8 +24,8 @@ author:
   name             : "Yachen Liu (刘亚琛)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Guilin University of Electronic Technology"
-  location         : "Guilin, China"
-  employer         : "Guilin University of Electronic Technology"
+  location         : 
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=fJPa7z8AAAAJ"
   email            : "ychl@guet.edu.cn"
