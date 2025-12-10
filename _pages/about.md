@@ -47,6 +47,9 @@ My research interests include semantic communication and underwater communicatio
 - *2013.09 - 2017.06*, Undergraduate, School of Information Engineering, Nanchang University, Nanchang.
 
 # 💻 Lectures and Forums
-- 2025.11, “桂电论坛：通识教育讲座计划”, 水下无线通信.
+- 2025.11, “桂电论坛：通识教育讲座计划”
+- 2025.11，“中国电子学会第32届信息论学术年会”
+- 2025.08，“水下信息感知与通信研讨会（第一届）”
+- 2025.07，“无线光通信理论与组网技术论坛（第六届）”
 
-# 🥇💎 Honors and Awards
+# 🥇💎🍓🌽❀🌼🎁📚📕 Honors and Awards
