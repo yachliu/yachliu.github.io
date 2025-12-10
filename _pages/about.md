@@ -49,4 +49,4 @@ My research interests include semantic communication and underwater communicatio
 # 💻 Lectures and Forums
 - 2025.11, “桂电论坛：通识教育讲座计划”, 水下无线通信.
 
-# 🎖 Honors and Awards
+# 🥇💎 Honors and Awards
