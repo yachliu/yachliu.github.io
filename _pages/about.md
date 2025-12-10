@@ -46,7 +46,7 @@ My research interests include semantic communication and underwater communicatio
 - *2017.09 - 2019.06*, Master, School of Information, Xiamen University, Xiamen.
 - *2013.09 - 2017.06*, Undergraduate, School of Information Engineering, Nanchang University, Nanchang.
 
-# 💬 Lectures and Forums
+# 💻 Lectures and Forums
 - 2025.11, “桂电论坛：通识教育讲座计划”, 水下无线通信.
 
 # 🎖 Honors and Awards
